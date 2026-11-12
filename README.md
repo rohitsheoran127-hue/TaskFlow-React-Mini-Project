@@ -1,16 +1,78 @@
-# React + Vite
+# 🚀 TaskFlow – Task Management Dashboard
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+TaskFlow is a mini task management dashboard built using React.js. It helps users manage their daily tasks through a simple and clean interface.
 
-Currently, two official plugins are available:
+## ✨ Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+- Dashboard with task statistics
+- Add new tasks
+- Edit existing tasks
+- Delete tasks
+- Mark tasks as completed
+- View all pending tasks
+- View completed tasks
+- Sidebar navigation
+- Profile settings
 
-## React Compiler
+## 🛠️ Technologies Used
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+- React.js
+- JavaScript
+- HTML5
+- CSS3
+- Vite
+- React Router DOM
 
-## Expanding the ESLint configuration
+## 📸 Project Overview
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+TaskFlow provides a simple dashboard to organize and manage daily tasks.
+
+## ⚙️ Installation and Setup
+
+Follow these steps to run the project locally:
+
+**1. Clone the repository**
+
+```bash
+git clone https://github.com/rohitsheoran127-hue/TaskFlow-React-Mini-Project.git
+```
+
+**2. Open the project folder**
+
+```bash
+cd TaskFlow-React-Mini-Project
+```
+
+**3. Install dependencies**
+
+```bash
+npm install
+```
+
+**4. Start the development server**
+
+```bash
+npm run dev
+```
+
+**5. Open the local URL** shown in your terminal.
+
+## 📚 What I Learned
+
+While building this project, I practised:
+
+- React Components and Props
+- useState Hook
+- Event Handling
+- Array Methods (map and filter)
+- Conditional Rendering
+- React Router
+- CSS Flexbox and Grid
+
+## 👨‍💻 Author
+
+Rohit
+
+## 📌 Project Status
+
+Completed as a React.js mini project for learning and practising frontend development.
