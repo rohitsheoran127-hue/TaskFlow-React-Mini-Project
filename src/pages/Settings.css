@@ -1,0 +1,64 @@
+.settings-page {
+    padding: 30px;
+}
+
+.settings-page h1 {
+    color: #172554;
+    margin-bottom: 8px;
+}
+
+.settings-page > p {
+    color: #64748b;
+    margin-bottom: 25px;
+}
+
+.setting-card {
+    background: white;
+    padding: 22px;
+    margin-bottom: 20px;
+    border-radius: 12px;
+    box-shadow: 0 2px 10px rgba(0, 0, 0, 0.05);
+}
+
+.setting-card h3 {
+    color: #172554;
+    margin-bottom: 18px;
+}
+
+.setting-card label {
+    display: block;
+    color: #475569;
+    font-size: 14px;
+    margin-bottom: 8px;
+    margin-top: 12px;
+}
+
+.setting-card input:not([type="checkbox"]),
+.setting-card select {
+    width: 100%;
+    padding: 11px;
+    border: 1px solid #cbd5e1;
+    border-radius: 7px;
+    outline: none;
+    margin-bottom: 8px;
+}
+
+.setting-card button {
+    background: #2563eb;
+    color: white;
+    border: none;
+    padding: 10px 18px;
+    border-radius: 7px;
+    cursor: pointer;
+    margin-top: 15px;
+}
+
+.setting-card button:hover {
+    background: #1d4ed8;
+}
+
+.setting-card .checkbox-label {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+}
